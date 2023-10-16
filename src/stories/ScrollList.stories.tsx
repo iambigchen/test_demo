@@ -1,7 +1,7 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 
-import { ScrollList } from "../src/components/ScrollList";
+import { ScrollList } from "../components/ScrollList";
 
 export default {
   title: "Example/ScrollList",
